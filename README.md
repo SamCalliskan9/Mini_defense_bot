@@ -51,6 +51,6 @@ Ideal for learning + portfolio.
 
 ### 1. Clone the repo 
 ---bash 
-git clone https://github.com/SamCalliskan9/mini_defence_bot.git
+git clone https://github.com/SamCalliskan9/Mini_defense_bot
 
 
