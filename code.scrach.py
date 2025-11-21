@@ -31,7 +31,7 @@
 ... 
 ...     while True:
 ...         sensor = scan_environment()
-...         actıon = choose_action(sensor)
+...         action = choose_action(sensor)
 ... 
         print(f"[SENSOR DATA] {sensor}")
         print(f"[ACTION] {action}")
@@ -49,6 +49,7 @@
 
 if __name__ == "__main__":
     defense_bot_loop()
+
 
 
 
